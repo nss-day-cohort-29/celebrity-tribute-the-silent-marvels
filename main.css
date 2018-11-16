@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: grey;
 }
@@ -16,4 +17,43 @@ img {
     width: 30%;
     display: flex;
     align-content: center;
+=======
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* Nav Bar Styling */
+
+header {
+    background-color: lightblue;
+    height: 80px;
+
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    list-style-type: none;
+    width: 900px;
+    padding: 30px;
+
+    display: flex;
+    justify-content: center;
+}
+
+.container > li {
+    flex-basis: 25%;
+}
+
+.container a{
+    color: black;
+    text-decoration: none;
+    font-size: large;
+>>>>>>> 3eadaa5bcab63323b2e233132161991ddf10c8fa
 }
