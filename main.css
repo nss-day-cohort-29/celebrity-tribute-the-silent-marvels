@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* Nav Bar Styling */
+
+header {
+    background-color: lightblue;
+    height: 80px;
+
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    list-style-type: none;
+    width: 900px;
+    padding: 30px;
+
+    display: flex;
+    justify-content: center;
+}
+
+.container > li {
+    flex-basis: 25%;
+}
+
+.container a{
+    color: black;
+    text-decoration: none;
+    font-size: large;
+}
