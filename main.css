@@ -1,0 +1,33 @@
+.site {
+    display: flex;
+    min-height: 97.5vh;
+    flex-direction: column;
+  }
+  .site-content {
+    flex: 1;
+  }
+
+.fa {
+    padding: 15px;
+    font-size: 15px;
+    width: 15px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-twitter {
+    background: #1DA1F2;
+    color: white;
+}
+.fa-instagram {
+    background: #C32AA3;
+    color: white;
+}
+.fa-youtube {
+    background: #FF0000;
+    color: white;
+}
