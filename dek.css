@@ -1,21 +1,26 @@
 body {
     background-color: grey;
-}
-}
-h1 {
-    font-style: normal;
-    text-align: start;
-    border: 1px saddlebrown;
-    color: white;
-    text-align: start;
     
 }
-ul {
+
+h1 {
+    font-style: normal;
     color: white;
+    text-shadow: 2px 2px black; 
+    text-align: center;  
+}
+
+h2 {
+    font-style: normal;
+    color: white;
+    text-align: center;   
 }
 
 img {
     width: 30%;
-    display: flex;
-    align-content: center;
+    border-radius: 5% 5%;
+}
+p {
+    color: white;
+    text-align: center;
 }
