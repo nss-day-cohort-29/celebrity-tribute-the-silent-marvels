@@ -1,21 +1,24 @@
 body {
     background-color: grey;
 }
-}
+
 h1 {
     font-style: normal;
-    text-align: start;
+    text-align: center;
     border: 1px saddlebrown;
     color: white;
-    text-align: start;
+    text-shadow: 2px 2px black;
+    
     
 }
 ul {
     color: white;
+    font-display: 
 }
 
 img {
     width: 30%;
+    border-radius: 15% 15%;
     display: flex;
-    align-content: center;
+    justify-content: center;
 }
