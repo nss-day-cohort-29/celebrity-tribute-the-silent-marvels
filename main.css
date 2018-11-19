@@ -1,3 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #DEE5E5;
+}
+
 /* Footer styling */
 
 .site {
@@ -34,15 +43,20 @@
     color: white;
 }
 
+footer {
+    margin: 100px 0 0 0;
+}
+
 
 
 /* Nav Bar Styling */
 
 header {
-    border: 2px solid black;
     text-align: center;
     margin: 0 0 50px 0;
     font-weight: bold;
+    background-color: #7c7c7c;
+    color: #1C2541;
 }
 
 .title{
@@ -59,12 +73,13 @@ header {
 nav{
     display: flex;
     justify-content: center;
-    /* background-color: lightblue; */
+
 }
 
 .container{
     list-style-type: none;
     width: 900px;
+
 
     display: flex;
     justify-content: center;
@@ -76,7 +91,7 @@ nav{
 }
 
 .container a{
-    color: black;
+    color: #C1CFDA;
     text-decoration: none;
     font-size: large;
 }
