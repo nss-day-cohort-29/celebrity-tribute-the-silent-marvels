@@ -10,12 +10,14 @@ h2 {
 }
 
 section {
+
     display: flex;
     justify-content: center;
     flex-direction: column;
 }
 
 .collaborations, p {
+ 
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -30,4 +32,8 @@ div {
     display: flex;
     justify-content: center;
     
+}
+
+img {
+    border: 1px solid black;
 }
