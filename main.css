@@ -1,34 +1,8 @@
-<<<<<<< HEAD
-body {
-    background-color: grey;
-}
-h1 {
-    font-style: normal;
-    text-align: start;
-    border: 1px saddlebrown;
-    color: white;
-    text-align: start;
-    
-}
-ul {
-    color: white;
-}
 
 
 
 
 
-img {
-    width: 30%;
-    display: flex;
-    align-content: center;
-
-* {
-    margin: 0;
-    padding: 0;
-    
-
-=======
 .site {
     display: flex;
     min-height: 97.5vh;
@@ -53,7 +27,6 @@ img {
 .fa-twitter {
     background: #1DA1F2;
     color: white;
->>>>>>> master
 }
 .fa-instagram {
     background: #C32AA3;
