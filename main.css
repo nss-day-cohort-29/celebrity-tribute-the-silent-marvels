@@ -1,24 +1,4 @@
-
-
 /* Footer styling */
-
-body {
-    background-color: grey;
-}
-h1 {
-    font-style: normal;
-    text-align: start;
-    border: 1px saddlebrown;
-    color: white;
-    text-align: start;
-    
-}
-ul {
-    color: white;
-}
-
-
-
 
 .site {
     display: flex;
@@ -59,14 +39,27 @@ ul {
 /* Nav Bar Styling */
 
 header {
-    background-color: lightblue;
-    height: 50px;
+    border: 2px solid black;
+    text-align: center;
+    margin: 0 0 50px 0;
+    font-weight: bold;
+}
 
+.title{
+    font-size: 40px;
+    margin: 20px;
+}
+
+.container {
+    height: 50px;
+    padding: 0;
+    margin: 0;
 }
 
 nav{
     display: flex;
     justify-content: center;
+    /* background-color: lightblue; */
 }
 
 .container{
@@ -79,6 +72,7 @@ nav{
 
 .container > li {
     flex-basis: 25%;
+    padding: 10px;
 }
 
 .container a{

@@ -1,8 +1,29 @@
+
+article {
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;   
+}
+
 section {
     display: flex;
     justify-content: center;
+    flex-direction: column;
 }
 
-img {
+.collaborations, p {
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    max-width: 500px;
+}
+div {
+    display: flex;
+    justify-content: center;
+    
 }
