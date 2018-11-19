@@ -1,11 +1,13 @@
 body {
-    background-image: url("https://cdn.wallpapersafari.com/72/80/NBRUZJ.jpg");
+    background-color: grey;
 }
 h1 {
-    font-style: italic;
+    font-style: normal;
     text-align: start;
-    border: 1px solid black;
+    border: 1px saddlebrown;
     color: white;
+    text-align: start;
+    
 }
 ul {
     color: white;
@@ -21,7 +23,8 @@ img {
     align-content: center;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    
+
 }
 
 
