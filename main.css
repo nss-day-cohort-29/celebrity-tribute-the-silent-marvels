@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 
 
 /* Footer styling */
 
-=======
-<<<<<<< HEAD
 body {
     background-color: grey;
 }
@@ -23,19 +20,6 @@ ul {
 
 
 
-
-img {
-    width: 30%;
-    display: flex;
-    align-content: center;
-
-* {
-    margin: 0;
-    padding: 0;
-    
-
-=======
->>>>>>> dac8205a4c7b6fd04a74fbf07fabed3fdfe6468e
 .site {
     display: flex;
     min-height: 97.5vh;
@@ -60,7 +44,6 @@ img {
 .fa-twitter {
     background: #1DA1F2;
     color: white;
->>>>>>> master
 }
 .fa-instagram {
     background: #C32AA3;
