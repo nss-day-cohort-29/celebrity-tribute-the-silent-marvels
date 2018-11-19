@@ -1,0 +1,21 @@
+body {
+    background-color: grey;
+}
+}
+h1 {
+    font-style: normal;
+    text-align: start;
+    border: 1px saddlebrown;
+    color: white;
+    text-align: start;
+    
+}
+ul {
+    color: white;
+}
+
+img {
+    width: 30%;
+    display: flex;
+    align-content: center;
+}
