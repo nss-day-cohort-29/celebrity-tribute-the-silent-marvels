@@ -1,0 +1,14 @@
+* {
+    margin: 1000;
+    padding: 1000;
+    box-sizing: border-box;
+    background-color: grey;
+    justify-content: center
+
+}
+.published {
+    display: flex;
+    justify-content: center;
+}
+
+ 
