@@ -42,7 +42,7 @@
 
 header {
     background-color: lightblue;
-    height: 80px;
+    height: 50px;
 
 }
 
@@ -54,7 +54,6 @@ nav{
 .container{
     list-style-type: none;
     width: 900px;
-    padding: 30px;
 
     display: flex;
     justify-content: center;
