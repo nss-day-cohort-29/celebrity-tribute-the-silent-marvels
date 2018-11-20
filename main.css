@@ -1,6 +1,10 @@
 * {
     padding: 0;
     margin: 0;
+<<<<<<< HEAD
+    box-sizing: border-box;
+=======
+>>>>>>> master
 }
 body {
     background-color: #DEE5E5;
@@ -51,6 +55,24 @@ footer {
 /* Nav Bar Styling */
 
 header {
+<<<<<<< HEAD
+    text-align: center;
+    margin: 0 0 50px 0;
+    font-weight: bold;
+    background-color: #7c7c7c;
+    color: #DEE5E5;
+}
+
+.title{
+    font-size: 40px;
+    margin: 20px;
+}
+
+.container {
+    height: 50px;
+    padding: 0;
+    margin: 0;
+=======
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -60,16 +82,28 @@ header {
     font-weight: bold;
     background-color: #7c7c7c;
     color: #DEE5E5;
+>>>>>>> master
 }
 
 .title{
     display: flex;
+<<<<<<< HEAD
+    justify-content: center;
+
+}
+
+.container{
+    list-style-type: none;
+    width: 900px;
+
+=======
     text-align: center;
 
     font-size: 40px;
     padding: 20px 20px 20px 70px;
 }
 
+>>>>>>> master
 
 .bar {
     display: flex;

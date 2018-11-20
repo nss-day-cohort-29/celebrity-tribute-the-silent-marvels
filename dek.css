@@ -1,29 +1,30 @@
 body {
     background-color: grey;
+  
     
 }
+img {
+    border-radius: 10% 10%;
+    width: 37%;
+    border: 1px solid black;
+    float: right;
+    padding-right: 10px;
+    justify-content: space-around;
 
-h1 {
-    font-style: normal;
-    color: rgb(48, 18, 18);
-    text-shadow: 2px 2px black; 
-    text-align: center;  
 }
 
-h2 {
+
+
+h1, h2, h3 {
     font-style: normal;
     color: black;
+    text-shadow: 2px 2px black; 
+    text-align: center;  
     text-align: center;   
 }
 
-img {
-    width: 30%;
-    border-radius: 5% 5%;
-}
-p {
-    color: white;
-    text-align: center;
-}
-p {
-    color: rgb(48, 18, 18)
-}
+/* footer {
+    display: flex;
+    justify-content: first baseline;
+} */
+
