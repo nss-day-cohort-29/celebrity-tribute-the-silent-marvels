@@ -1,26 +1,27 @@
 body {
     background-color: grey;
+  
     
 }
+img {
+    border-radius: 10% 10%;
+    width: 37%;
+    border: 1px solid black;
+    float: right;
+    padding-right: 10px;
+    justify-content: space-around;
 
-h1 {
+}
+
+
+h1, h2 {
     font-style: normal;
-    color: white;
+    color: black;
     text-shadow: 2px 2px black; 
     text-align: center;  
 }
 
-h2 {
-    font-style: normal;
-    color: white;
-    text-align: center;   
-}
-
-img {
-    width: 30%;
-    border-radius: 5% 5%;
-}
-p {
-    color: white;
-    text-align: center;
-}
+/* footer {
+    display: flex;
+    justify-content: first baseline;
+} */
