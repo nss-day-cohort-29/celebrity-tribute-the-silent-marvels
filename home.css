@@ -10,10 +10,11 @@ h2 {
 }
 
 section {
-
     display: flex;
     justify-content: center;
     flex-direction: column;
+
+    margin: 15px;
 }
 
 .collaborations, p {
@@ -35,5 +36,11 @@ div {
 }
 
 img {
-    border: 1px solid black;
+    border: 1px solid white;
+    margin: 0 0 20px 0;
+    border-radius: 2%;
+}
+
+img:hover {
+    opacity: 0.5;
 }
