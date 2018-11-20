@@ -1,0 +1,39 @@
+
+article {
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;   
+}
+
+section {
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.collaborations, p {
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 500px;
+}
+
+p {
+    text-align: center;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    
+}
+
+img {
+    border: 1px solid black;
+}
