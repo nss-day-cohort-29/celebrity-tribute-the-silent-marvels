@@ -14,7 +14,7 @@ img {
 }
 
 
-h1, h2 {
+h1, h2, h3 {
     font-style: normal;
     color: black;
     text-shadow: 2px 2px black; 
@@ -25,3 +25,6 @@ h1, h2 {
     display: flex;
     justify-content: first baseline;
 } */
+p {
+    text-align: end,
+}
